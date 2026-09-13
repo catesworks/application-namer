@@ -35,7 +35,7 @@ Check if your app or package name is available across **npm**, **Homebrew**, **P
 ### Install and Run
 
 ```bash
-git clone https://github.com/catesandrew/application-namer.git
+git clone https://github.com/catesworks/application-namer.git
 cd application-namer
 pnpm install
 pnpm dev
