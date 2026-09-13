@@ -1,5 +1,7 @@
 # Application Namer
 
+**Topics:** `web`
+
 Check if your app or package name is available across **npm**, **Homebrew**, **PyPI**, and **GitHub** — all in one search. When a name is taken, get AI-powered alternative suggestions with availability pre-checked across all registries.
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)
